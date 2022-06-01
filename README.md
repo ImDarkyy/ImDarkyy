@@ -18,7 +18,8 @@ Darkyy@github:~$ ./welcome.sh
 🔎 Intérêts principaux dans la cybersécurité<br />
 🔭 Travailler sur un bot de discorde<br />
 🌟 Principaux langages : Python, Web<br />
-🚩 Intéressé par la sécurité des réseaux et la sécurité web.
+🚩 Intéressé par la sécurité des réseaux et la sécurité web.<br />
+🤖 Love Mr Robot 
 <br /><br /><br /><br />
 
 <p>
