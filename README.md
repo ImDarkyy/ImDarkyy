@@ -4,7 +4,7 @@ Darkyy@github:~$ ./welcome.sh
 
 ```
  _____________________________________
-< Bienvenue sur ma page pêrsonel Github ! >
+< Bienvenue sur ma page personel Github ! >
  ------------------------------------- 
 ```
 <img align="left" src="https://github.com/ImDarkyy/ImDarkyy/blob/main/pp matrix.png" alt="WhileMe" width="320" />
@@ -27,7 +27,3 @@ Darkyy@github:~$ ./welcome.sh
   <a href="https://github.com/ImDarkyy/">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImDarkyy" />
   </a>
-
-<p> 
-<img src="https://visitor-badge.glitch.me/badge?page_id=ImDarkyy.visitor-badge"/> 
-</p>
