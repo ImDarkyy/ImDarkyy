@@ -7,7 +7,7 @@ Darkyy@github:~$ ./welcome.sh
 < Bienvenue sur ma page personel Github ! >
  ------------------------------------- 
 ```
-<img align="left" src="https://github.com/ImDarkyy/ImDarkyy/blob/main/pp matrix.png" alt="WhileMe" width="320" />
+<img align="left" src="https://github.com/ImDarkyy/ImDarkyy/blob/main/pp discord.gif" alt="WhileMe" width="320" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
